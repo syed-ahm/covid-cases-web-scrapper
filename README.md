@@ -1,5 +1,4 @@
-# python-covid-cases-web-scrapper
-## COVID-19 Case Information Web Scrapper with Voice Assistant
+# COVID-19 Case Information Web Scrapper with Voice Assistant
 
 ## INSTALLATION:
   * Clone the repository in a local directory using command "git clone https://github.com/syed-ahm/python-covid-cases-web-scrapper.git".
