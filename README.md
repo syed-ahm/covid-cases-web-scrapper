@@ -3,7 +3,7 @@
 
 ## INSTALLATION:
   * Clone the repository in a local directory using command "git clone https://github.com/syed-ahm/python-covid-cases-web-scrapper.git".
-  * Run command "pip install -r requirements.txt" in order to install all required dependencies.
+  * Within the same directory, run command "pip install -r requirements.txt" in order to install all required dependencies.
   * Now the program will run by executing command "python main.py". 
 
 ## HOW TO USE:
