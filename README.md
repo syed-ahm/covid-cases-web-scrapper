@@ -16,8 +16,8 @@
 
 
 ## VOICE COMMANDS:*
-  * "Update": can be said to update case data
-  * "Stop": can be said to stop the program
+  * "Update": can be said to update case data.
+  * "Stop": can be said to stop the program.
   
 ## Built Using:
 This project was built in python, using the following libraries:
