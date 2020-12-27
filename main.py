@@ -132,7 +132,7 @@ def main():
     while True:
         print("Listening...")
         text = get_audio()
-        print(text)
+        print("You said: '",text,"'")
         result = None
         
         for pattern, func in TOTAL_PATTERNS.items():
