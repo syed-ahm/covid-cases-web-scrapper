@@ -23,6 +23,8 @@ This project was built in python, using the following libraries:
 * Python RegEx (Regular Expressions)
 * Python Text-to-Speech
 * Python Speech Recognition
+
+The scrapping is done via [ParseHub](https://www.parsehub.com/), by calling the ParseHub API on every data update. 
   
   
  ## COVID-19 Case Information Source:
